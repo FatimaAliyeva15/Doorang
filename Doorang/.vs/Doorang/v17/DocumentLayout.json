@@ -1,0 +1,632 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D50E3BB-AD53-4B51-8507-779EED142C6C}|Doorang\\Doorang.csproj|c:\\users\\asus\\desktop\\mvcproject_doorang\\doorang\\doorang\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D50E3BB-AD53-4B51-8507-779EED142C6C}|Doorang\\Doorang.csproj|solutionrelative:doorang\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D50E3BB-AD53-4B51-8507-779EED142C6C}|Doorang\\Doorang.csproj|c:\\users\\asus\\desktop\\mvcproject_doorang\\doorang\\doorang\\viewmodel\\adminloginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D50E3BB-AD53-4B51-8507-779EED142C6C}|Doorang\\Doorang.csproj|solutionrelative:doorang\\viewmodel\\adminloginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D50E3BB-AD53-4B51-8507-779EED142C6C}|Doorang\\Doorang.csproj|c:\\users\\asus\\desktop\\mvcproject_doorang\\doorang\\doorang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D50E3BB-AD53-4B51-8507-779EED142C6C}|Doorang\\Doorang.csproj|solutionrelative:doorang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D50E3BB-AD53-4B51-8507-779EED142C6C}|Doorang\\Doorang.csproj|c:\\users\\asus\\desktop\\mvcproject_doorang\\doorang\\doorang\\areas\\admin\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D50E3BB-AD53-4B51-8507-779EED142C6C}|Doorang\\Doorang.csproj|solutionrelative:doorang\\areas\\admin\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D50E3BB-AD53-4B51-8507-779EED142C6C}|Doorang\\Doorang.csproj|c:\\users\\asus\\desktop\\mvcproject_doorang\\doorang\\doorang\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D50E3BB-AD53-4B51-8507-779EED142C6C}|Doorang\\Doorang.csproj|solutionrelative:doorang\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D50E3BB-AD53-4B51-8507-779EED142C6C}|Doorang\\Doorang.csproj|c:\\users\\asus\\desktop\\mvcproject_doorang\\doorang\\doorang\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D50E3BB-AD53-4B51-8507-779EED142C6C}|Doorang\\Doorang.csproj|solutionrelative:doorang\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D50E3BB-AD53-4B51-8507-779EED142C6C}|Doorang\\Doorang.csproj|c:\\users\\asus\\desktop\\mvcproject_doorang\\doorang\\doorang\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D50E3BB-AD53-4B51-8507-779EED142C6C}|Doorang\\Doorang.csproj|solutionrelative:doorang\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D50E3BB-AD53-4B51-8507-779EED142C6C}|Doorang\\Doorang.csproj|c:\\users\\asus\\desktop\\mvcproject_doorang\\doorang\\doorang\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D50E3BB-AD53-4B51-8507-779EED142C6C}|Doorang\\Doorang.csproj|solutionrelative:doorang\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D50E3BB-AD53-4B51-8507-779EED142C6C}|Doorang\\Doorang.csproj|c:\\users\\asus\\desktop\\mvcproject_doorang\\doorang\\doorang\\viewmodel\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D50E3BB-AD53-4B51-8507-779EED142C6C}|Doorang\\Doorang.csproj|solutionrelative:doorang\\viewmodel\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D50E3BB-AD53-4B51-8507-779EED142C6C}|Doorang\\Doorang.csproj|c:\\users\\asus\\desktop\\mvcproject_doorang\\doorang\\doorang\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D50E3BB-AD53-4B51-8507-779EED142C6C}|Doorang\\Doorang.csproj|solutionrelative:doorang\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D50E3BB-AD53-4B51-8507-779EED142C6C}|Doorang\\Doorang.csproj|c:\\users\\asus\\desktop\\mvcproject_doorang\\doorang\\doorang\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D50E3BB-AD53-4B51-8507-779EED142C6C}|Doorang\\Doorang.csproj|solutionrelative:doorang\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D50E3BB-AD53-4B51-8507-779EED142C6C}|Doorang\\Doorang.csproj|c:\\users\\asus\\desktop\\mvcproject_doorang\\doorang\\doorang\\areas\\admin\\views\\card\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D50E3BB-AD53-4B51-8507-779EED142C6C}|Doorang\\Doorang.csproj|solutionrelative:doorang\\areas\\admin\\views\\card\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D50E3BB-AD53-4B51-8507-779EED142C6C}|Doorang\\Doorang.csproj|c:\\users\\asus\\desktop\\mvcproject_doorang\\doorang\\doorang\\areas\\admin\\views\\card\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D50E3BB-AD53-4B51-8507-779EED142C6C}|Doorang\\Doorang.csproj|solutionrelative:doorang\\areas\\admin\\views\\card\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D50E3BB-AD53-4B51-8507-779EED142C6C}|Doorang\\Doorang.csproj|c:\\users\\asus\\desktop\\mvcproject_doorang\\doorang\\doorang\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D50E3BB-AD53-4B51-8507-779EED142C6C}|Doorang\\Doorang.csproj|solutionrelative:doorang\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE05DD10-2EE0-4895-8C0F-E0F625FE291B}|Doorang_Data\\Doorang_Data.csproj|c:\\users\\asus\\desktop\\mvcproject_doorang\\doorang\\doorang_data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE05DD10-2EE0-4895-8C0F-E0F625FE291B}|Doorang_Data\\Doorang_Data.csproj|solutionrelative:doorang_data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F974A45-5FFD-4973-9764-32257D82653E}|Doorang_Core\\Doorang_Core.csproj|c:\\users\\asus\\desktop\\mvcproject_doorang\\doorang\\doorang_core\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F974A45-5FFD-4973-9764-32257D82653E}|Doorang_Core\\Doorang_Core.csproj|solutionrelative:doorang_core\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB655FDF-1CB2-4567-B561-A6821347D779}|Doorang_Business\\Doorang_Business.csproj|c:\\users\\asus\\desktop\\mvcproject_doorang\\doorang\\doorang_business\\services\\concretes\\cardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB655FDF-1CB2-4567-B561-A6821347D779}|Doorang_Business\\Doorang_Business.csproj|solutionrelative:doorang_business\\services\\concretes\\cardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE05DD10-2EE0-4895-8C0F-E0F625FE291B}|Doorang_Data\\Doorang_Data.csproj|c:\\users\\asus\\desktop\\mvcproject_doorang\\doorang\\doorang_data\\repositoryconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE05DD10-2EE0-4895-8C0F-E0F625FE291B}|Doorang_Data\\Doorang_Data.csproj|solutionrelative:doorang_data\\repositoryconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F974A45-5FFD-4973-9764-32257D82653E}|Doorang_Core\\Doorang_Core.csproj|c:\\users\\asus\\desktop\\mvcproject_doorang\\doorang\\doorang_core\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F974A45-5FFD-4973-9764-32257D82653E}|Doorang_Core\\Doorang_Core.csproj|solutionrelative:doorang_core\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D50E3BB-AD53-4B51-8507-779EED142C6C}|Doorang\\Doorang.csproj|c:\\users\\asus\\desktop\\mvcproject_doorang\\doorang\\doorang\\areas\\admin\\views\\card\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D50E3BB-AD53-4B51-8507-779EED142C6C}|Doorang\\Doorang.csproj|solutionrelative:doorang\\areas\\admin\\views\\card\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB655FDF-1CB2-4567-B561-A6821347D779}|Doorang_Business\\Doorang_Business.csproj|c:\\users\\asus\\desktop\\mvcproject_doorang\\doorang\\doorang_business\\services\\abstracts\\icardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB655FDF-1CB2-4567-B561-A6821347D779}|Doorang_Business\\Doorang_Business.csproj|solutionrelative:doorang_business\\services\\abstracts\\icardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F974A45-5FFD-4973-9764-32257D82653E}|Doorang_Core\\Doorang_Core.csproj|c:\\users\\asus\\desktop\\mvcproject_doorang\\doorang\\doorang_core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F974A45-5FFD-4973-9764-32257D82653E}|Doorang_Core\\Doorang_Core.csproj|solutionrelative:doorang_core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE05DD10-2EE0-4895-8C0F-E0F625FE291B}|Doorang_Data\\Doorang_Data.csproj|c:\\users\\asus\\desktop\\mvcproject_doorang\\doorang\\doorang_data\\migrations\\20240516142431_addcardtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE05DD10-2EE0-4895-8C0F-E0F625FE291B}|Doorang_Data\\Doorang_Data.csproj|solutionrelative:doorang_data\\migrations\\20240516142431_addcardtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Desktop\\MVCProject\\Doorang\\Doorang_Data\\Migrations\\20240516155335_CreateCardTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D50E3BB-AD53-4B51-8507-779EED142C6C}|Doorang\\Doorang.csproj|c:\\users\\asus\\desktop\\mvcproject_doorang\\doorang\\doorang\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3D50E3BB-AD53-4B51-8507-779EED142C6C}|Doorang\\Doorang.csproj|solutionrelative:doorang\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D50E3BB-AD53-4B51-8507-779EED142C6C}|Doorang\\Doorang.csproj|c:\\users\\asus\\desktop\\mvcproject_doorang\\doorang\\doorang\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D50E3BB-AD53-4B51-8507-779EED142C6C}|Doorang\\Doorang.csproj|solutionrelative:doorang\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D50E3BB-AD53-4B51-8507-779EED142C6C}|Doorang\\Doorang.csproj|c:\\users\\asus\\desktop\\mvcproject_doorang\\doorang\\doorang\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D50E3BB-AD53-4B51-8507-779EED142C6C}|Doorang\\Doorang.csproj|solutionrelative:doorang\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D50E3BB-AD53-4B51-8507-779EED142C6C}|Doorang\\Doorang.csproj|c:\\users\\asus\\desktop\\mvcproject_doorang\\doorang\\doorang\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D50E3BB-AD53-4B51-8507-779EED142C6C}|Doorang\\Doorang.csproj|solutionrelative:doorang\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D50E3BB-AD53-4B51-8507-779EED142C6C}|Doorang\\Doorang.csproj|c:\\users\\asus\\desktop\\mvcproject_doorang\\doorang\\doorang\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3D50E3BB-AD53-4B51-8507-779EED142C6C}|Doorang\\Doorang.csproj|solutionrelative:doorang\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB655FDF-1CB2-4567-B561-A6821347D779}|Doorang_Business\\Doorang_Business.csproj|c:\\users\\asus\\desktop\\mvcproject_doorang\\doorang\\doorang_business\\exceptions\\card\\filenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB655FDF-1CB2-4567-B561-A6821347D779}|Doorang_Business\\Doorang_Business.csproj|solutionrelative:doorang_business\\exceptions\\card\\filenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB655FDF-1CB2-4567-B561-A6821347D779}|Doorang_Business\\Doorang_Business.csproj|c:\\users\\asus\\desktop\\mvcproject_doorang\\doorang\\doorang_business\\exceptions\\card\\entitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB655FDF-1CB2-4567-B561-A6821347D779}|Doorang_Business\\Doorang_Business.csproj|solutionrelative:doorang_business\\exceptions\\card\\entitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB655FDF-1CB2-4567-B561-A6821347D779}|Doorang_Business\\Doorang_Business.csproj|c:\\users\\asus\\desktop\\mvcproject_doorang\\doorang\\doorang_business\\exceptions\\card\\filesizeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB655FDF-1CB2-4567-B561-A6821347D779}|Doorang_Business\\Doorang_Business.csproj|solutionrelative:doorang_business\\exceptions\\card\\filesizeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB655FDF-1CB2-4567-B561-A6821347D779}|Doorang_Business\\Doorang_Business.csproj|c:\\users\\asus\\desktop\\mvcproject_doorang\\doorang\\doorang_business\\exceptions\\card\\filecontenttypeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB655FDF-1CB2-4567-B561-A6821347D779}|Doorang_Business\\Doorang_Business.csproj|solutionrelative:doorang_business\\exceptions\\card\\filecontenttypeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE05DD10-2EE0-4895-8C0F-E0F625FE291B}|Doorang_Data\\Doorang_Data.csproj|c:\\users\\asus\\desktop\\mvcproject_doorang\\doorang\\doorang_data\\repositoryconcretes\\cardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE05DD10-2EE0-4895-8C0F-E0F625FE291B}|Doorang_Data\\Doorang_Data.csproj|solutionrelative:doorang_data\\repositoryconcretes\\cardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F974A45-5FFD-4973-9764-32257D82653E}|Doorang_Core\\Doorang_Core.csproj|c:\\users\\asus\\desktop\\mvcproject_doorang\\doorang\\doorang_core\\repositoryabstracts\\icardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F974A45-5FFD-4973-9764-32257D82653E}|Doorang_Core\\Doorang_Core.csproj|solutionrelative:doorang_core\\repositoryabstracts\\icardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F974A45-5FFD-4973-9764-32257D82653E}|Doorang_Core\\Doorang_Core.csproj|c:\\users\\asus\\desktop\\mvcproject_doorang\\doorang\\doorang_core\\repositoryabstracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F974A45-5FFD-4973-9764-32257D82653E}|Doorang_Core\\Doorang_Core.csproj|solutionrelative:doorang_core\\repositoryabstracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D50E3BB-AD53-4B51-8507-779EED142C6C}|Doorang\\Doorang.csproj|c:\\users\\asus\\desktop\\mvcproject_doorang\\doorang\\doorang\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D50E3BB-AD53-4B51-8507-779EED142C6C}|Doorang\\Doorang.csproj|solutionrelative:doorang\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE05DD10-2EE0-4895-8C0F-E0F625FE291B}|Doorang_Data\\Doorang_Data.csproj|c:\\users\\asus\\desktop\\mvcproject_doorang\\doorang\\doorang_data\\migrations\\20240516170552_addusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE05DD10-2EE0-4895-8C0F-E0F625FE291B}|Doorang_Data\\Doorang_Data.csproj|solutionrelative:doorang_data\\migrations\\20240516170552_addusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 38,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Doorang\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Doorang\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T18:58:38.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang\\ViewModel\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "Doorang\\ViewModel\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang\\ViewModel\\RegisterVM.cs",
+              "RelativeToolTip": "Doorang\\ViewModel\\RegisterVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T18:56:46.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Doorang\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Doorang\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T18:36:09.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminLoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang\\ViewModel\\AdminLoginVM.cs",
+              "RelativeDocumentMoniker": "Doorang\\ViewModel\\AdminLoginVM.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang\\ViewModel\\AdminLoginVM.cs",
+              "RelativeToolTip": "Doorang\\ViewModel\\AdminLoginVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T17:48:51.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Doorang\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Doorang\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAA9wBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T17:37:53.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20240516170552_AddUserTable.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang_Data\\Migrations\\20240516170552_AddUserTable.cs",
+              "RelativeDocumentMoniker": "Doorang_Data\\Migrations\\20240516170552_AddUserTable.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang_Data\\Migrations\\20240516170552_AddUserTable.cs",
+              "RelativeToolTip": "Doorang_Data\\Migrations\\20240516170552_AddUserTable.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T17:05:53.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang_Core\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Doorang_Core\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang_Core\\Models\\AppUser.cs",
+              "RelativeToolTip": "Doorang_Core\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T17:00:32.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang\\Areas\\Admin\\Views\\Card\\Update.cshtml",
+              "RelativeDocumentMoniker": "Doorang\\Areas\\Admin\\Views\\Card\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang\\Areas\\Admin\\Views\\Card\\Update.cshtml",
+              "RelativeToolTip": "Doorang\\Areas\\Admin\\Views\\Card\\Update.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T16:13:07.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang\\Areas\\Admin\\Views\\Card\\Create.cshtml",
+              "RelativeDocumentMoniker": "Doorang\\Areas\\Admin\\Views\\Card\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang\\Areas\\Admin\\Views\\Card\\Create.cshtml",
+              "RelativeToolTip": "Doorang\\Areas\\Admin\\Views\\Card\\Create.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T15:56:52.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240516155335_CreateCardTable.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVCProject\\Doorang\\Doorang_Data\\Migrations\\20240516155335_CreateCardTable.cs",
+              "RelativeDocumentMoniker": "..\\..\\MVCProject\\Doorang\\Doorang_Data\\Migrations\\20240516155335_CreateCardTable.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVCProject\\Doorang\\Doorang_Data\\Migrations\\20240516155335_CreateCardTable.cs",
+              "RelativeToolTip": "..\\..\\MVCProject\\Doorang\\Doorang_Data\\Migrations\\20240516155335_CreateCardTable.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:53:35.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang\\Areas\\Admin\\Views\\Card\\Index.cshtml",
+              "RelativeDocumentMoniker": "Doorang\\Areas\\Admin\\Views\\Card\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang\\Areas\\Admin\\Views\\Card\\Index.cshtml",
+              "RelativeToolTip": "Doorang\\Areas\\Admin\\Views\\Card\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACEAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T15:29:23.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CardController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang\\Areas\\Admin\\Controllers\\CardController.cs",
+              "RelativeDocumentMoniker": "Doorang\\Areas\\Admin\\Controllers\\CardController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang\\Areas\\Admin\\Controllers\\CardController.cs",
+              "RelativeToolTip": "Doorang\\Areas\\Admin\\Controllers\\CardController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAwEAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:26:23.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Doorang\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Doorang\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T15:23:44.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Doorang\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Doorang\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T15:23:27.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Doorang\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Doorang\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAJABAAAAAAAAAAAnwKoBAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T15:22:20.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Doorang\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Doorang\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T15:18:00.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Doorang\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Doorang\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:17:52.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Doorang\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Doorang\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-16T15:15:20.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FileNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang_Business\\Exceptions\\Card\\FileNotFoundException.cs",
+              "RelativeDocumentMoniker": "Doorang_Business\\Exceptions\\Card\\FileNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang_Business\\Exceptions\\Card\\FileNotFoundException.cs",
+              "RelativeToolTip": "Doorang_Business\\Exceptions\\Card\\FileNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:06:48.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EntityNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang_Business\\Exceptions\\Card\\EntityNotFoundException.cs",
+              "RelativeDocumentMoniker": "Doorang_Business\\Exceptions\\Card\\EntityNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang_Business\\Exceptions\\Card\\EntityNotFoundException.cs",
+              "RelativeToolTip": "Doorang_Business\\Exceptions\\Card\\EntityNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:04:29.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FileSizeException.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang_Business\\Exceptions\\Card\\FileSizeException.cs",
+              "RelativeDocumentMoniker": "Doorang_Business\\Exceptions\\Card\\FileSizeException.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang_Business\\Exceptions\\Card\\FileSizeException.cs",
+              "RelativeToolTip": "Doorang_Business\\Exceptions\\Card\\FileSizeException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:59:10.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FileContentTypeException.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang_Business\\Exceptions\\Card\\FileContentTypeException.cs",
+              "RelativeDocumentMoniker": "Doorang_Business\\Exceptions\\Card\\FileContentTypeException.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang_Business\\Exceptions\\Card\\FileContentTypeException.cs",
+              "RelativeToolTip": "Doorang_Business\\Exceptions\\Card\\FileContentTypeException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:56:13.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CardService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang_Business\\Services\\Concretes\\CardService.cs",
+              "RelativeDocumentMoniker": "Doorang_Business\\Services\\Concretes\\CardService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang_Business\\Services\\Concretes\\CardService.cs",
+              "RelativeToolTip": "Doorang_Business\\Services\\Concretes\\CardService.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAA0wFUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:37:57.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ICardService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang_Business\\Services\\Abstracts\\ICardService.cs",
+              "RelativeDocumentMoniker": "Doorang_Business\\Services\\Abstracts\\ICardService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang_Business\\Services\\Abstracts\\ICardService.cs",
+              "RelativeToolTip": "Doorang_Business\\Services\\Abstracts\\ICardService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:35:46.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CardRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang_Data\\RepositoryConcretes\\CardRepository.cs",
+              "RelativeDocumentMoniker": "Doorang_Data\\RepositoryConcretes\\CardRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang_Data\\RepositoryConcretes\\CardRepository.cs",
+              "RelativeToolTip": "Doorang_Data\\RepositoryConcretes\\CardRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:34:26.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ICardRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang_Core\\RepositoryAbstracts\\ICardRepository.cs",
+              "RelativeDocumentMoniker": "Doorang_Core\\RepositoryAbstracts\\ICardRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang_Core\\RepositoryAbstracts\\ICardRepository.cs",
+              "RelativeToolTip": "Doorang_Core\\RepositoryAbstracts\\ICardRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:33:45.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang_Data\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Doorang_Data\\RepositoryConcretes\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang_Data\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeToolTip": "Doorang_Data\\RepositoryConcretes\\GenericRepository.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAIwCwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:29:53.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang_Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Doorang_Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang_Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "RelativeToolTip": "Doorang_Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:26:23.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20240516142431_AddCardTable.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang_Data\\Migrations\\20240516142431_AddCardTable.cs",
+              "RelativeDocumentMoniker": "Doorang_Data\\Migrations\\20240516142431_AddCardTable.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang_Data\\Migrations\\20240516142431_AddCardTable.cs",
+              "RelativeToolTip": "Doorang_Data\\Migrations\\20240516142431_AddCardTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:24:31.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang\\appsettings.json",
+              "RelativeDocumentMoniker": "Doorang\\appsettings.json",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang\\appsettings.json",
+              "RelativeToolTip": "Doorang\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-16T13:53:32.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang_Data\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Doorang_Data\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang_Data\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "Doorang_Data\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T13:51:35.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang_Core\\Models\\Card.cs",
+              "RelativeDocumentMoniker": "Doorang_Core\\Models\\Card.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang_Core\\Models\\Card.cs",
+              "RelativeToolTip": "Doorang_Core\\Models\\Card.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwBYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T13:49:30.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang_Core\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Doorang_Core\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang_Core\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Doorang_Core\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T13:49:00.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Doorang\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Doorang\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T13:41:20.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Doorang\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Doorang\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAUwGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T13:40:47.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Doorang\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Doorang\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T13:39:57.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang\\Program.cs",
+              "RelativeDocumentMoniker": "Doorang\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang\\Program.cs",
+              "RelativeToolTip": "Doorang\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T13:39:17.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Doorang\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVCProject_Doorang\\Doorang\\Doorang\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Doorang\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T13:38:43.165Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
